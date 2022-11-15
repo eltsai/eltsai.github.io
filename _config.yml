@@ -85,7 +85,7 @@ author:
   bio              : "CSE Ph.D. candidate at umich"
   location         : "Ann Arbor, MI"
   employer         :
-  github           : "https://github.com/eltsai/"
+  github           : "eltsai"
   googlescholar    : "https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/MustbeElisa"
+  twitter          : "MustbeElisa"
   vine             :
   weibo            :
   xing             :
