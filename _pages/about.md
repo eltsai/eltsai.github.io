@@ -12,9 +12,11 @@ redirect_from:
 
 
 
-🌱I'm Elisa. I am a 3rd year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China. 
+🌱I'm Elisa. I am a 3rd year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
 
 My current research focus is on network security, and security and privacy in general. I am interested in utilizing ML techniques to gain insights from and improve user anonymity and resource accessibility in hostile network environments. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
+
+**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/blob/master/assets/Elisa_CV_2022_09_19.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
 
 Publications
 ------
