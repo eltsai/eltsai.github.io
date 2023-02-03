@@ -28,21 +28,21 @@ K Loughlin, I Neal, J Ma, **E Tsai,** O Weisse, S Narayanasamy, B Kasikci, {DOLM
 Talks
 ------
 Roya Ensafi, Ram Sundara Raman, Apurva Virkud, **Elisa Tsai**, Armin Huremagic\
-Censored Planet Webinar\
-2021, Censored Planet Community Webinar. [[Event](https://censoredplanet.org/webinar2021)] [[Video](https://censoredplanet.org/webinar2021)]
+2021, CP Community Webinar. [[Event](https://censoredplanet.org/webinar2021)] [[Video](https://censoredplanet.org/webinar2021)]
 
 Teaching
 ------
 I am the GSI (Grad Student Instructor) for [EECS 598-012 Secure and Trustworthy ML](http://www-personal.umich.edu/~rtfeng/wn23_eecs598_012.html) for WN 23.
+
 Community Service
 -------
 1. [SECRIT (SECurity Reading Is Terrific)](https://wiki.eecs.umich.edu/secrit/index.php/Main_Page#Papers_We.27ve_Read) Reading Group Co-Host\
 I started hosting SECRIT since May of 2021, where we discuss recent papers on security and privacy. [[Wiki](https://wiki.eecs.umich.edu/secrit/index.php/Main_Page)] [[Calendar](https://calendar.google.com/calendar/u/0?cid=Y19haXM3N29xY2Iwb3I4Mms5MHJmcWsxZ2tvNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)]
 
-2. CSEG Outreach Chair\
+1. CSEG Outreach Chair\
 I am the Outreach Chair for CSEG (CSE Grad) for year 2022-2023. We organize outreach events and workshops such as [Xplore Engineering](https://campsforkids.engin.umich.edu/xplore/) and [Discover Engineering](https://campsforkids.engin.umich.edu/discover/)
 
-3. CSEG Social Co-Chair\
+1. CSEG Social Co-Chair\
 I am one of the co-chairs for CSEG social events.
 
 
