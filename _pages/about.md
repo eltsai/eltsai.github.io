@@ -31,6 +31,9 @@ Roya Ensafi, Ram Sundara Raman, Apurva Virkud, **Elisa Tsai**, Armin Huremagic\
 Censored Planet Webinar\
 2021, Censored Planet Community Webinar. [[Event](https://censoredplanet.org/webinar2021)] [[Video](https://censoredplanet.org/webinar2021)]
 
+Teaching
+------
+I am the GSI (Grad Student Instructor) for [EECS 598-012 Secure and Trustworthy ML](http://www-personal.umich.edu/~rtfeng/wn23_eecs598_012.html) for WN 23.
 Community Service
 -------
 1. [SECRIT (SECurity Reading Is Terrific)](https://wiki.eecs.umich.edu/secrit/index.php/Main_Page#Papers_We.27ve_Read) Reading Group Co-Host\
