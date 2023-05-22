@@ -20,7 +20,7 @@ My current research focus is on network security, and security and privacy in ge
 
 Publications
 ------
-**Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi, CERTainty: Detecting DNS Manipulation using TLS Certificates. To Appear, Privacy Enhancing Technologies Symposium (PETS). July 2023.
+**Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi, CERTainty: Detecting DNS Manipulation using TLS Certificates. Privacy Enhancing Technologies Symposium (PETS). July 2023. [[PDF](https://petsymposium.org/popets/2023/popets-2023-0073.php)] 
 
 Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai,** Ofir Weisse, Satish Narayanasamy, Baris Kasikci, {DOLMA}: Securing Speculation with the Principle of Transient {Non-Observability}\
 2021, USENIX Security. [[PDF](https://www.usenix.org/system/files/sec21fall-loughlin.pdf)] [[Code](https://github.com/efeslab/dolma)] [[Video](https://www.youtube.com/watch?v=d9vVgmRwgXg&ab_channel=USENIX)]
