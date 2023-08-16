@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-🌱I'm Elisa Tsai. I am a 3rd year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
+🌱I'm Elisa Tsai. I am a 4th year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
 
 My current research focus is on network security, and security and privacy in general. I am interested in utilizing ML techniques to gain insights from and improve user anonymity and resource accessibility in hostile network environments. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
 
@@ -20,6 +20,8 @@ My current research focus is on network security, and security and privacy in ge
 
 Publications
 ------
+**Elisa Tsai**,  Ram Sundara Raman,  Atul Prakash, Roya Ensafi, Modeling and Detecting Internet Censorship Events. To appear in Network and Distributed System Security (NDSS) Symposium 2024, Feb - Mar 2024. 
+
 **Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi, CERTainty: Detecting DNS Manipulation using TLS Certificates. Privacy Enhancing Technologies Symposium (PETS). July 2023. [[PDF](https://petsymposium.org/popets/2023/popets-2023-0073.php)] 
 
 Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai,** Ofir Weisse, Satish Narayanasamy, Baris Kasikci, {DOLMA}: Securing Speculation with the Principle of Transient {Non-Observability}\
