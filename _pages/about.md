@@ -28,8 +28,10 @@ Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai,** Ofir Weisse, Satish Naray
 2021, USENIX Security. [[PDF](https://www.usenix.org/system/files/sec21fall-loughlin.pdf)] [[Code](https://github.com/efeslab/dolma)] [[Video](https://www.youtube.com/watch?v=d9vVgmRwgXg&ab_channel=USENIX)]
 
 Teaching
-------
-GSI (Grad Student Instructor) for [EECS 598-012 Secure and Trustworthy ML](http://www-personal.umich.edu/~rtfeng/wn23_eecs598_012.html) for Winter 23.
+
+GSI (Grad Student Instructor) for [Computer & Network Security](https://docs.google.com/document/d/1DConE68c6UNvePET4EZDsiKxXr8XnWkrZORmxWbESTc/edit) for Winter 24. This is a seminar-based course with an extensive reading list on various computer and network security topics.
+
+GSI (Grad Student Instructor) for [EECS 598-012 Secure and Trustworthy ML](http://www-personal.umich.edu/~rtfeng/wn23_eecs598_012.html) for Winter 23. This class discusses different types of adversarial machine learning attacks and their corresponding defenses, as well as model stealing, poisoning, fairness, and privacy.
 
 GSI (Grad Student Instructor) for [EECS 281 Data Structures and Algorithms](https://eecs281staff.github.io/eecs281.org) for Fall 23.
 
