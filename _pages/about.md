@@ -48,4 +48,4 @@ I was the Outreach Chair for CSEG (CSE Grad) for year 2022-2023. We organize out
 I was one of the co-chairs for CSEG social events in 2022-2023.
 
 -------
-Last Updated: 2023.10
+Last Updated: 2024.02
