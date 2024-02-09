@@ -16,7 +16,7 @@ redirect_from:
 
 My current research focus is on network security, and security and privacy in general. I am interested in utilizing ML techniques to gain insights from and improve user anonymity and resource accessibility in hostile network environments. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
 
-**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2022_09_19.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
+**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2024_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
 
 Publications
 ------
@@ -29,7 +29,6 @@ Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai,** Ofir Weisse, Satish Naray
 
 Teaching
 ------
-
 GSI (Grad Student Instructor) for [Computer & Network Security](https://docs.google.com/document/d/1DConE68c6UNvePET4EZDsiKxXr8XnWkrZORmxWbESTc/edit) for Winter 24. This is a seminar-based course with an extensive reading list on various computer and network security topics.
 
 GSI (Grad Student Instructor) for [EECS 598-012 Secure and Trustworthy ML](http://www-personal.umich.edu/~rtfeng/wn23_eecs598_012.html) for Winter 23. This class discusses different types of adversarial machine learning attacks and their corresponding defenses, as well as model stealing, poisoning, fairness, and privacy.
