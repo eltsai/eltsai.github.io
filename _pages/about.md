@@ -20,7 +20,7 @@ My current research focus is on network security, and security and privacy in ge
 
 Publications
 ------
-**Elisa Tsai**,  Ram Sundara Raman,  Atul Prakash, Roya Ensafi, Modeling and Detecting Internet Censorship Events. To appear in Network and Distributed System Security (NDSS) Symposium 2024, Feb - Mar 2024. 
+**Elisa Tsai**,  Ram Sundara Raman,  Atul Prakash, Roya Ensafi, Modeling and Detecting Internet Censorship Events. Network and Distributed System Security (NDSS) Symposium 2024, Feb - Mar 2024. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-409-paper.pdf)] 
 
 **Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi, CERTainty: Detecting DNS Manipulation using TLS Certificates. Privacy Enhancing Technologies Symposium (PETS). July 2023. [[PDF](https://petsymposium.org/popets/2023/popets-2023-0073.php)] 
 
@@ -28,6 +28,7 @@ Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai,** Ofir Weisse, Satish Naray
 2021, USENIX Security. [[PDF](https://www.usenix.org/system/files/sec21fall-loughlin.pdf)] [[Code](https://github.com/efeslab/dolma)] [[Video](https://www.youtube.com/watch?v=d9vVgmRwgXg&ab_channel=USENIX)]
 
 Teaching
+------
 
 GSI (Grad Student Instructor) for [Computer & Network Security](https://docs.google.com/document/d/1DConE68c6UNvePET4EZDsiKxXr8XnWkrZORmxWbESTc/edit) for Winter 24. This is a seminar-based course with an extensive reading list on various computer and network security topics.
 
