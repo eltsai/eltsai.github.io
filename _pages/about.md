@@ -14,18 +14,48 @@ redirect_from:
 
 🌱I'm Elisa Tsai. I am a 4th year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
 
-My current research focus is on network security, and security and privacy in general. I am interested in utilizing ML techniques to gain insights from and improve user anonymity and resource accessibility in hostile network environments. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
+My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
 
-**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2024_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
+**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2024_06.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
 
 Publications
 ------
-**Elisa Tsai**,  Ram Sundara Raman,  Atul Prakash, Roya Ensafi, Modeling and Detecting Internet Censorship Events. Network and Distributed System Security (NDSS) Symposium 2024, Feb - Mar 2024. [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2024-409-paper.pdf)] 
+- [ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling](https://arxiv.org/abs/2406.04273)  
+    
+    Haizhong Zheng (co-lead), **Elisa Tsai (co-lead)**, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash
+    
+    *In Submission*
 
-**Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi, CERTainty: Detecting DNS Manipulation using TLS Certificates. Privacy Enhancing Technologies Symposium (PETS). July 2023. [[PDF](https://petsymposium.org/popets/2023/popets-2023-0073.php)] 
+- [Modeling and Detecting Internet Censorship Events](https://www.ndss-symposium.org/ndss-paper/modeling-and-detecting-internet-censorship-events/)
+    
+    **Elisa Tsai**, Ram Sundara Raman, Atul Prakash, Roya Ensafi
+    
+    **NDSS (Network and Distributed System Security Symposium) 2024**
 
-Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai,** Ofir Weisse, Satish Narayanasamy, Baris Kasikci, {DOLMA}: Securing Speculation with the Principle of Transient {Non-Observability}\
-2021, USENIX Security. [[PDF](https://www.usenix.org/system/files/sec21fall-loughlin.pdf)] [[Code](https://github.com/efeslab/dolma)] [[Video](https://www.youtube.com/watch?v=d9vVgmRwgXg&ab_channel=USENIX)]
+- [CERTainty: Detecting DNS Manipulation at Scale using TLS Certificates](https://petsymposium.org/popets/2023/popets-2023-0073.php)
+    
+    **Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi
+    
+    **PETS (Privacy Enhancing Technologies Symposium) 2023**
+
+- [DOLMA: Securing Speculation with the Principle of Transient Non-Observability](https://www.usenix.org/conference/usenixsecurity21/presentation/loughlin)
+    
+    Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai**, Ofir Weisse, Satish Narayanasamy, Baris Kasikci
+    
+    **USENIX Security 2021**
+
+- [Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)
+    
+    **Elisa Tsai**, Anoop Singhal, Atul Prakash
+    
+    **DLSP (Deep Learning Security and Privacy Workshop) 2024**
+
+- [Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)
+    
+    Atul Prakash, Shivani Kumar, **Elisa Tsai**
+    
+    **ConPro (Workshop on Technology and Consumer Protection) 2024**
+
 
 Teaching
 ------
@@ -47,4 +77,4 @@ I was the Outreach Chair for CSEG (CSE Grad) for year 2022-2023. We organize out
 I was one of the co-chairs for CSEG social events in 2022-2023.
 
 -------
-Last Updated: 2024.02
+Last Updated: 2024.06
