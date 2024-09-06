@@ -1,0 +1,13 @@
+---
+title: "CERTainty: Detecting DNS Manipulation at Scale using TLS Certificates"
+collection: publications
+permalink: /publication/2023-01-01-certainty
+excerpt: 'CERTainty: Detecting DNS Manipulation at Scale using TLS Certificates'
+date: 2023-10-01
+venue: ' Proceedings on Privacy Enhancing Technologies 2023'
+paperurl: 'https://petsymposium.org/popets/2023/popets-2023-0073.php'
+citation: 'Tsai, E., Kumar, D., Raman, R. S., Li, G., Eiger, Y., & Ensafi, R. (2023). Certainty: Detecting dns manipulation at scale using tls certificates. arXiv preprint arXiv:2305.08189.'
+---
+
+[Download paper here](https://petsymposium.org/popets/2023/popets-2023-0073.php)
+

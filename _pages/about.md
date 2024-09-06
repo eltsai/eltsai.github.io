@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-🌱I'm Elisa Tsai. I am a 4th year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
+🌱I'm Elisa Tsai. I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
 
 My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
 
@@ -77,4 +77,4 @@ I was the Outreach Chair for CSEG (CSE Grad) for year 2022-2023. We organize out
 I was one of the co-chairs for CSEG social events in 2022-2023.
 
 -------
-Last Updated: 2024.06
+Last Updated: 2024.09
