@@ -18,7 +18,7 @@ My research focuses on building pragmatic, GenAI-powered systems for web securit
 
 **Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2024_06.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
 
-Publications
+Selected Publications
 ------
 - [ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling](https://arxiv.org/abs/2406.04273)  
     
@@ -26,17 +26,17 @@ Publications
     
     *In Submission*
 
-- [Modeling and Detecting Internet Censorship Events](https://www.ndss-symposium.org/ndss-paper/modeling-and-detecting-internet-censorship-events/)
+<!-- - [Modeling and Detecting Internet Censorship Events](https://www.ndss-symposium.org/ndss-paper/modeling-and-detecting-internet-censorship-events/)
     
     **Elisa Tsai**, Ram Sundara Raman, Atul Prakash, Roya Ensafi
     
-    **NDSS (Network and Distributed System Security Symposium) 2024**
+    **NDSS (Network and Distributed System Security Symposium) 2024** -->
 
-- [CERTainty: Detecting DNS Manipulation at Scale using TLS Certificates](https://petsymposium.org/popets/2023/popets-2023-0073.php)
+<!-- - [CERTainty: Detecting DNS Manipulation at Scale using TLS Certificates](https://petsymposium.org/popets/2023/popets-2023-0073.php)
     
     **Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi
     
-    **PETS (Privacy Enhancing Technologies Symposium) 2023**
+    **PETS (Privacy Enhancing Technologies Symposium) 2023** -->
 
 - [DOLMA: Securing Speculation with the Principle of Transient Non-Observability](https://www.usenix.org/conference/usenixsecurity21/presentation/loughlin)
     
