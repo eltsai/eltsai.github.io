@@ -36,13 +36,13 @@ Selected Publications
     
     **Elisa Tsai**, Deepak Kumar, Ram Sundara Raman, Gavin Li, Yael Eiger, Roya Ensafi
     
-    **PETS (Privacy Enhancing Technologies Symposium) 2023** -->
+    **PETS (Privacy Enhancing Technologies Symposium) 2023** 
 
 - [DOLMA: Securing Speculation with the Principle of Transient Non-Observability](https://www.usenix.org/conference/usenixsecurity21/presentation/loughlin)
     
     Kevin Loughlin, Ian Neal, Jiacheng Ma, **Elisa Tsai**, Ofir Weisse, Satish Narayanasamy, Baris Kasikci
     
-    **USENIX Security 2021**
+    **USENIX Security 2021**-->
 
 - [Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)
     
