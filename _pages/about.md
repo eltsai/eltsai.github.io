@@ -65,6 +65,8 @@ Selected Publications
     
     **ConPro (Workshop on Technology and Consumer Protection) 2024**
 
+For full publications list, see [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)].
+
 
 Teaching
 ------
