@@ -11,20 +11,29 @@ redirect_from:
 [![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)](http://home.ustc.edu.cn/~elisa/)
 
 
-
 🌱I'm Elisa Tsai. I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before umich, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
 
-My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
+My research focuses on building pragmatic, GenAI-powered systems for web security. I also
+design algorithms for data efficiency and inference efficiency for vision and large language
+models.
 
-**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2024_06.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
+Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
+
+**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2025_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
 
 Selected Publications
 ------
-- [ELFS: Enhancing Label-Free Coreset Selection via Clustering-based Pseudo-Labeling](https://arxiv.org/abs/2406.04273)  
+- [Label-Free Coreset Selection with Proxy Training Dynamics](https://openreview.net/forum?id=yklJpvB7Dq})  
     
     Haizhong Zheng (co-lead), **Elisa Tsai (co-lead)**, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash
     
-    *In Submission*
+    To appear,  ICLR (The International Conference on Learning Representations) 2025
+
+- [Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale](https://openreview.net/forum?id=w5aYTHtq4F)
+    
+    **Elisa Tsai**, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash
+
+    To appear,  WWW (The Web Conference) 2025 (Oral)
 
 <!-- - [Modeling and Detecting Internet Censorship Events](https://www.ndss-symposium.org/ndss-paper/modeling-and-detecting-internet-censorship-events/)
     
@@ -77,4 +86,4 @@ I was the Outreach Chair for CSEG (CSE Grad) for year 2022-2023. We organize out
 I was one of the co-chairs for CSEG social events in 2022-2023.
 
 -------
-Last Updated: 2024.09
+Last Updated: 2025.01
