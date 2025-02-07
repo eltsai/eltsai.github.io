@@ -23,34 +23,26 @@ Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and
 
 Selected Publications
 ------
-**Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale** [[arXiv]](https://www.arxiv.org/abs/2502.01798) [[Code]](https://github.com/eltsai/term_miner) [[Dataset]](https://huggingface.co/datasets/eltsai/ShopTC-100K)
-
-**Elisa Tsai**, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash
-
+**Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale** [[arXiv]](https://www.arxiv.org/abs/2502.01798) [[Code]](https://github.com/eltsai/term_miner) [[Dataset]](https://huggingface.co/datasets/eltsai/ShopTC-100K)  
+**Elisa Tsai**, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash  
 To appear, The Web Conference (WWW) 2025 (<span style="color: red;">Oral</span>)
 
 ---
 
-**Label-Free Coreset Selection with Proxy Training Dynamics** [[arXiv]](https://openreview.net/forum?id=yklJpvB7Dq) 
-
-Haizhong Zheng (co-lead), **Elisa Tsai (co-lead)**, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash
-
+**Label-Free Coreset Selection with Proxy Training Dynamics** [[arXiv]](https://openreview.net/forum?id=yklJpvB7Dq)  
+Haizhong Zheng (co-lead), **Elisa Tsai (co-lead)**, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash  
 To appear, The International Conference on Learning Representations (ICLR) 2025
 
 ---
 
-**Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning** [[DLSP]](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)
-
-  **Elisa Tsai**, Anoop Singhal, Atul Prakash
-
-  Deep Learning Security and Privacy Workshop (DLSP) 2024
+**Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning** [[PDF (DLSP)]](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)  
+**Elisa Tsai**, Anoop Singhal, Atul Prakash  
+Deep Learning Security and Privacy Workshop (DLSP) 2024
 
 ---
 
-**Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)** [ConPro](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)
-
-Atul Prakash, Shivani Kumar, **Elisa Tsai**
-
+**Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)** [[PDF (ConPro)]](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)  
+Atul Prakash, Shivani Kumar, **Elisa Tsai**  
 Workshop on Technology and Consumer Protection (ConPro) 2024
 
 ---
