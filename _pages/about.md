@@ -29,11 +29,16 @@ Selected Publications
 
 To appear, The Web Conference (WWW) 2025 (<span style="color: red;">Oral</span>)
 
+---
+
+
 **Label-Free Coreset Selection with Proxy Training Dynamics** [[arXiv]](https://openreview.net/forum?id=yklJpvB7Dq) 
 
 Haizhong Zheng (co-lead), **Elisa Tsai (co-lead)**, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash
 
 To appear, The International Conference on Learning Representations (ICLR) 2025
+
+---
 
 **Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning** [[DLSP]](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)
 
@@ -41,12 +46,15 @@ To appear, The International Conference on Learning Representations (ICLR) 2025
 
   Deep Learning Security and Privacy Workshop (DLSP) 2024
 
+---
+
 **Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)** [ConPro](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)
 
 Atul Prakash, Shivani Kumar, **Elisa Tsai**
 
 Workshop on Technology and Consumer Protection (ConPro) 2024
-------
+
+---
 
 For the full publication list, please check out my [Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra).
 
