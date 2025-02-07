@@ -39,7 +39,7 @@ Selected Publications
     Atul Prakash, Shivani Kumar, **Elisa Tsai**
     Workshop on Technology and Consumer Protection (ConPro) 2024
 
-For the full publications list, please check out my [Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra).
+For the full publication list, please check out my [Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra).
 
 
 Teaching
