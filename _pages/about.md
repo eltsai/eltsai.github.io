@@ -31,7 +31,6 @@ To appear, The Web Conference (WWW) 2025 (<span style="color: red;">Oral</span>)
 
 ---
 
-
 **Label-Free Coreset Selection with Proxy Training Dynamics** [[arXiv]](https://openreview.net/forum?id=yklJpvB7Dq) 
 
 Haizhong Zheng (co-lead), **Elisa Tsai (co-lead)**, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash
