@@ -3,47 +3,59 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
+header: false 
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+About Me
+------
+{% include general-block.html 
+    content="
 ![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)
 
 
-🌱I'm Elisa Tsai. I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). Before Michigan, I received my B.E in Computer Science at the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)). 
+🌱I'm Elisa Tsai. I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/).
 
-My research focuses on building pragmatic, GenAI-powered systems for web security. I also
-design algorithms for data efficiency and inference efficiency for vision and large language
-models.
+My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for data efficiency and inference efficiency for vision and large language models.
 
 Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [sing](https://soundcloud.com/dumblelisa) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
 
-**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2025_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] 
+**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2025_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] [[LinkedIn](https://www.linkedin.com/in/elisa-tsai-umich/)]
+    "
+%}
 
 Selected Publications
 ------
-**Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale** [[arXiv]](https://www.arxiv.org/abs/2502.01798) [[Code]](https://github.com/eltsai/term_miner) [[Dataset]](https://huggingface.co/datasets/eltsai/ShopTC-100K)  
-**Elisa Tsai**, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash  
-To appear, The Web Conference (WWW) 2025 (<span style="color: red;">Oral</span>)
+{% include publication-block.html 
+    title="Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale"
+    resources="[arXiv](https://www.arxiv.org/abs/2502.01798) [Code](https://github.com/eltsai/term_miner/tree/main) [Dataset](https://huggingface.co/datasets/eltsai/ShopTC-100K)"
+    authors="Elisa Tsai, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash"
+    conference="To appear, The Web Conference (WWW) 2025 (<span style='color: #880000'>Oral</span>)"
+%}
 
----
+{% include publication-block.html 
+    title="Label-Free Coreset Selection with Proxy Training Dynamics"
+    resources="[arXiv](https://openreview.net/forum?id=yklJpvB7Dql)"
+    authors="Haizhong Zheng (co-lead), Elisa Tsai (co-lead), Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash"
+    conference="To appear, The International Conference on Learning Representations (ICLR) 2025"
+%}
 
-**Label-Free Coreset Selection with Proxy Training Dynamics** [[arXiv]](https://openreview.net/forum?id=yklJpvB7Dq)  
-Haizhong Zheng (co-lead), **Elisa Tsai (co-lead)**, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash  
-To appear, The International Conference on Learning Representations (ICLR) 2025
 
----
+{% include publication-block.html 
+    title="Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning"
+    resources="[PDF (DLSP)](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)"
+    authors="Elisa Tsai, Anoop Singhal, Atul Prakash"
+    conference="Deep Learning Security and Privacy Workshop (DLSP) 2024"
+%}
 
-**Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning** [[PDF (DLSP)]](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)  
-**Elisa Tsai**, Anoop Singhal, Atul Prakash  
-Deep Learning Security and Privacy Workshop (DLSP) 2024
 
----
-
-**Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)** [[PDF (ConPro)]](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)  
-Atul Prakash, Shivani Kumar, **Elisa Tsai**  
-Workshop on Technology and Consumer Protection (ConPro) 2024
+{% include publication-block.html 
+    title="Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)"
+    resources="[PDF (ConPro)](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)"
+    authors="Atul Prakash, Shivani Kumar, Elisa Tsai"
+    conference="Workshop on Technology and Consumer Protection (ConPro) 2024"
+%}
 
 ---
 

@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Elisa"
   avatar           : "profile.jpg"
-  bio              : "eltsai [@t] umich [d0t] edu"
-  location         : "Ann Arbor, MI"
+  bio              : "CSE Ph.D. @ UMich"  
+  education        : "CS B.E. @ USTC" 
   employer         :
   github           : "eltsai"
-  googlescholar    : "https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=3NA-OTQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/elisa-tsai-umich/"
   orcid            : "https://orcid.org/0000-0001-6026-070X"
   pinterest        :
   soundcloud       :

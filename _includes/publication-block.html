@@ -1,0 +1,15 @@
+<div class="preview-block" style="background: white; padding: 2rem; border-radius: 10px; margin: 2rem 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <div class="title" style="font-size: 1.2rem; margin-bottom: 1rem; font-weight: 600;">{{ include.title }}</div>
+  
+  <div class="resources" style="margin-bottom: 1rem; font-size: 1rem;">
+    {{ include.resources | markdownify }}
+  </div>
+
+  <div class="authors" style="color: #666; font-size: 1rem; margin-bottom: 1rem;">
+    {{ include.authors }}
+  </div>
+  
+  <div class="conference" style="color: #666; font-size: 1rem;">
+    {{ include.conference }}
+  </div>
+</div>
