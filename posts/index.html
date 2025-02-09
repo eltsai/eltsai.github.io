@@ -8,7 +8,9 @@ author_profile: true
 <div style="background-color: #f8f8f8; padding: 20px; border-radius: 4px;">
   {% for post in paginator.posts %}
     {% capture post_content %}
-## [{{ post.title }}]({{ post.url }})
+<h2>
+  <a href="{{ post.url }}" style="color: rgb(68, 68, 68); text-decoration: none !important;">{{ post.title }}</a>
+</h2>
 
 {% if post.excerpt %}
 {{ post.excerpt | strip_html | truncate: 160 }}
@@ -17,7 +19,8 @@ author_profile: true
 <p class="page__meta" style="color: #666;">
   <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }} | 
   {% assign words = post.content | number_of_words %}
-  Estimated Reading Time: {% if words < 360 %}1 min{% else %}{{ words | divided_by:180 }} min{% endif %}
+  Estimated Reading Time: {% if words < 360 %}1 min{% else %}{{ words | divided_by:180 }} min{% endif %} | 
+  {% if post.author %}Author: {{ post.author }}{% endif %}
 </p>
     {% endcapture %}
     

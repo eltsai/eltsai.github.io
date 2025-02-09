@@ -9,6 +9,5 @@ main:
   - title: "Archive"
     url: /year-archive/
   
-    
-  - title: "Tags"
-    url: /tags/
+  # - title: "Tags"
+  #   url: /tags/

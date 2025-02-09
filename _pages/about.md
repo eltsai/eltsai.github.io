@@ -24,15 +24,15 @@ Outside of work, I occasionally [record music](https://soundcloud.com/dumblelisa
 Selected Publications
 ------
 {% include publication-block.html 
-    title="Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale"
-    resources="[arXiv](https://www.arxiv.org/abs/2502.01798) [Code](https://github.com/eltsai/term_miner/tree/main) [Dataset](https://huggingface.co/datasets/eltsai/ShopTC-100K)"
-    authors="Elisa Tsai, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash"
-    conference="To appear, The Web Conference (WWW) 2025 (<span style='color: #880000'>Oral</span>)"
+  title="Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale"
+  resources='<i class="fas fa-file-pdf"></i> [arXiv](https://www.arxiv.org/abs/2502.01798) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/term_miner/tree/main) <i class="fas fa-database"> </i> [Dataset](https://huggingface.co/datasets/eltsai/ShopTC-100K) <i class="fab fa-blogger-b"> </i> [Blog Post](https://eltsai.github.io/posts/2025/02/harmful-terms/)'
+  authors="Elisa Tsai, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash"
+  conference='To appear, The Web Conference (WWW) 2025 (<span style="color: #880000">Oral</span>)'
 %}
 
 {% include publication-block.html 
     title="Label-Free Coreset Selection with Proxy Training Dynamics"
-    resources="[arXiv](https://openreview.net/forum?id=yklJpvB7Dql)"
+    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://openreview.net/forum?id=yklJpvB7Dql)'
     authors="Haizhong Zheng (co-lead), Elisa Tsai (co-lead), Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash"
     conference="To appear, The International Conference on Learning Representations (ICLR) 2025"
 %}
@@ -40,7 +40,7 @@ Selected Publications
 
 {% include publication-block.html 
     title="Terms of Deception: Exposing Obscured Financial Obligations in Online Agreements with Deep Learning"
-    resources="[PDF (DLSP)](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)"
+    resources='<i class="fas fa-file-pdf"></i> [PDF (DLSP)](https://dlsp2024.ieee-security.org/papers/dls2024-final23.pdf)'
     authors="Elisa Tsai, Anoop Singhal, Atul Prakash"
     conference="Deep Learning Security and Privacy Workshop (DLSP) 2024"
 %}
@@ -48,7 +48,7 @@ Selected Publications
 
 {% include publication-block.html 
     title="Detecting Social Engineering Scams While Preserving User Privacy in the Digital Era (Proposal Position Paper)"
-    resources="[PDF (ConPro)](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)"
+    resources='<i class="fas fa-file-pdf"></i> [PDF (ConPro)](https://conpro24.ieee-security.org/papers/prakash-conpro24.pdf)'
     authors="Atul Prakash, Shivani Kumar, Elisa Tsai"
     conference="Workshop on Technology and Consumer Protection (ConPro) 2024"
 %}
