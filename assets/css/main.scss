@@ -44,3 +44,41 @@
 body {
   background-color: #f8f8f8;  // very light gray
 }
+
+.masthead {
+  background-color: #f8f8f8;  // very light gray
+}
+
+.greedy-nav {
+  background-color: #f8f8f8;
+  
+  a {
+    color: #666;  // darker grey for text
+    
+    &:hover {
+      color: #333;  // even darker on hover
+    }
+  }
+}
+
+mark {
+  background-color: #e8f0ff !important;  // Light blue
+  padding: 2px 8px !important;
+}
+
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 20px 0;
+  
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

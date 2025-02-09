@@ -11,13 +11,13 @@ title                    : "Elisa Tsai / CSE@Umich"
 title_separator          : "-"
 name                     : &name "Elisa Tsai"
 description              : &description "personal description"
-url                      : https://eltsai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eltsai.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eltsai/eltsai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/elisa-tsai-umich/"
+  linkedin         : "elisa-tsai-umich"
   orcid            : "https://orcid.org/0000-0001-6026-070X"
   pinterest        :
   soundcloud       :
@@ -177,7 +177,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
   # portfolio:
@@ -235,14 +235,13 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comment: true
-  # # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -253,7 +252,8 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 10
+paginate_path: /posts/page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 

@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
 author_profile: true
 header: false 
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me
-------
 {% include general-block.html 
     content="
 ![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)
@@ -19,7 +15,7 @@ About Me
 
 My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for data efficiency and inference efficiency for vision and large language models.
 
-Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [sing](https://soundcloud.com/dumblelisa) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
+Outside of work, I occasionally [record music](https://soundcloud.com/dumblelisa), and once every few years, I [draw stuff](https://etsai.site/tags/comics/). There's also an archive of my [Chinese blogs](https://etsai.site/).
 
 **Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2025_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] [[LinkedIn](https://www.linkedin.com/in/elisa-tsai-umich/)]
     "
@@ -64,11 +60,11 @@ For the full publication list, please check out my [Google Scholar](https://scho
 
 Teaching
 ------
-GSI (Grad Student Instructor) for [Computer & Network Security](https://docs.google.com/document/d/1DConE68c6UNvePET4EZDsiKxXr8XnWkrZORmxWbESTc/edit) for Winter 24. This is a seminar-based course with an extensive reading list on various computer and network security topics.
+<mark>Winter 2024</mark> [Computer & Network Security](https://docs.google.com/document/d/1DConE68c6UNvePET4EZDsiKxXr8XnWkrZORmxWbESTc/edit) Grad Student Instructor. This is a seminar-based course with an extensive reading list on various computer and network security topics.
 
-GSI (Grad Student Instructor) for [EECS 598-012 Secure and Trustworthy ML](http://www-personal.umich.edu/~rtfeng/wn23_eecs598_012.html) for Winter 23. This class discusses different types of adversarial machine learning attacks and their corresponding defenses, as well as model stealing, poisoning, fairness, and privacy.
+<mark>Fall 2023</mark> [EECS 598-012 Secure and Trustworthy ML](http://www-personal.umich.edu/~rtfeng/wn23_eecs598_012.html) Grad Student Instructor. This class discusses different types of adversarial machine learning attacks and their corresponding defenses, as well as model stealing, poisoning, fairness, and privacy.
 
-GSI (Grad Student Instructor) for [EECS 281 Data Structures and Algorithms](https://eecs281staff.github.io/eecs281.org) for Fall 23.
+<mark>Fall 2023</mark> [EECS 281 Data Structures and Algorithms](https://eecs281staff.github.io/eecs281.org) Grad Student Instructor.
 
 Community Service
 -------
@@ -82,4 +78,4 @@ I was the Outreach Chair for CSEG (CSE Grad) for year 2022-2023. We organize out
 I was one of the co-chairs for CSEG social events in 2022-2023.
 
 -------
-Last Updated: 2025.01
+<mark>Last Updated: 2025.02</mark>

@@ -1,7 +1,7 @@
 ---
 title: "CERTainty: Detecting DNS Manipulation at Scale using TLS Certificates"
-collection: publications
-permalink: /publication/2023-01-01-certainty
+collection: projects
+permalink: /projects/2023-01-01-certainty
 excerpt: 'CERTainty: Detecting DNS Manipulation at Scale using TLS Certificates'
 date: 2023-10-01
 venue: ' Proceedings on Privacy Enhancing Technologies 2023'

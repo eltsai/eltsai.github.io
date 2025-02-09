@@ -1,0 +1,37 @@
+---
+layout: archive
+title: "Posts"
+permalink: /posts/
+author_profile: true
+---
+
+<div style="background-color: #f8f8f8; padding: 20px; border-radius: 4px;">
+  {% for post in paginator.posts %}
+    {% capture post_content %}
+## [{{ post.title }}]({{ post.url }})
+
+{% if post.excerpt %}
+{{ post.excerpt | strip_html | truncate: 160 }}
+{% endif %}
+
+<p class="page__meta" style="color: #666;">
+  <i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }} | 
+  {% assign words = post.content | number_of_words %}
+  Estimated Reading Time: {% if words < 360 %}1 min{% else %}{{ words | divided_by:180 }} min{% endif %}
+</p>
+    {% endcapture %}
+    
+    {% include talk-block.html content=post_content %}
+  {% endfor %}
+  
+  {% if paginator.total_pages > 1 %}
+    <div style="text-align: center; margin-top: 1rem;">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="btn">← Newer Posts</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="btn">Older Posts →</a>
+      {% endif %}
+    </div>
+  {% endif %}
+</div> 

@@ -1,0 +1,23 @@
+{% capture talk_content %}
+<article class="archive__item">
+    <h2 class="archive__item-title">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ post.title }}</a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      {% endif %}
+    </h2>
+    
+    {% if post.date %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+    {% endif %}
+    
+    {% if post.venue and post.date %}
+      <p class="archive__item-excerpt">
+        {{ post.type }}, {{ post.venue }}, {{ post.location }}
+      </p>
+    {% endif %}
+  </article>
+{% endcapture %}
+
+{% include talk-block.html content=talk_content %}
