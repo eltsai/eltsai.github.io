@@ -12,13 +12,14 @@ toc_icon: "list"
 tags:
   - web-security
   - llm
+  - measurement
   - research
 ---
-# Open Source Code and Dataset
+# 🤗 Open Source Code and Dataset
 
-We open-sourced [TermMiner](https://github.com/eltsai/term_miner) and [ShopTC-100K](https://huggingface.co/datasets/eltsai/ShopTC-100K) to help researchers and developers build better tools to protect consumers.
+We open sourced [TermMiner](https://github.com/eltsai/term_miner) and [ShopTC-100K](https://huggingface.co/datasets/eltsai/ShopTC-100K) to help researchers and developers build better tools to protect consumers.
 
-<i class="fas fa-file-pdf"></i> [arXiv](https://www.arxiv.org/abs/2502.01798) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/term_miner/tree/main) <i class="fas fa-database"></i> [Dataset](https://huggingface.co/datasets/eltsai/ShopTC-100K)
+<i class="fas fa-file-pdf"></i> [Paper (arXiv)](https://www.arxiv.org/abs/2502.01798) <i class="fab fa-github"></i> [Code (GitHub)](https://github.com/eltsai/term_miner/tree/main) <i class="fas fa-database"></i> [Dataset (HuggingFace)](https://huggingface.co/datasets/eltsai/ShopTC-100K)
 
 
 
@@ -27,7 +28,13 @@ We open-sourced [TermMiner](https://github.com/eltsai/term_miner) and [ShopTC-10
 Let's be honest --- no one actually reads the Terms & Conditions before clicking "I agree." And that's exactly what some businesses are counting on. Hidden in the fine print of shopping websites are unfavorable financial terms --- sneaky term that can charge you unexpected fees or lock you into unwanted subscriptions.
 
 <p align="center">
-  <img src="/images/harmful_terms/scam_example_tone_fit_pro.jpg" width="400" alt="Example of social-engineering scam facilitated by unfavorable terms">
+  <img src="/images/harmful_terms/scam_example_tone_fit_pro.jpg" 
+       style="max-width: 50%; 
+              width: auto; 
+              height: auto; 
+              display: block; 
+              margin: 0 auto;"
+       alt="Example of social-engineering scam facilitated by unfavorable terms">
 </p>
 
 
@@ -49,8 +56,14 @@ To tackle the problem of unfavorable financial terms, we took a data-driven appr
 First, we built [TermMiner](https://github.com/eltsai/term_miner), a pipeline that collected and analyzed terms and conditions from thousands of shopping websites. Using large language models (LLMs) and topic modeling, we identified recurring patterns in the fine print, clustering terms into different categories based on semantic similarity.
 
 
-<div style="width: 700px; margin: 0 auto;">
-  <img src="/images/harmful_terms/termminer_data_collection_pipeline_slides_version.jpg" width="700" alt="TermMiner overview">
+<div style="max-width: 700px; width: 70%; margin: 0 auto;">
+  <img src="/images/harmful_terms/termminer_data_collection_pipeline_slides_version.jpg" 
+       style="max-width: 100%; 
+              width: auto; 
+              height: auto; 
+              display: block; 
+              margin: 0 auto;"
+       alt="TermMiner overview">
   <p style="color: #666666; font-size: 0.9em; margin-top: 8px;">
     <em>TermMiner collects English T&Cs from shopping websites, classifies terms into binary categories, and clusters terms to identify topics through manual inspection, GPT-4o, and iterative snowball sampling.</em>
   </p>
@@ -83,8 +96,14 @@ Below are some examples of unfavorable financial terms (for more examples, see t
 
 Next, we developed TermLens, a detection system that automatically flags unfavorable financial terms in real time. By leveraging state-of-the-art LLMs fine-tuned on a small annotated dataset, TermLens can highlight hidden fees, deceptive refund policies, and other predatory terms, helping consumers spot potential risks before they click "I agree."
 
-<div style="width: 500px; margin: 0 auto;">
-  <img src="/images/harmful_terms/plugin_design.jpg" width="500" alt="TermLens demo">
+<div style="max-width: 500px; width: 70%; margin: 0 auto;">
+  <img src="/images/harmful_terms/plugin_design.jpg" 
+       style="max-width: 100%; 
+              width: auto; 
+              height: auto; 
+              display: block; 
+              margin: 0 auto;"
+       alt="TermLens demo">
   <p style="color: #666666; font-size: 0.9em; margin-top: 8px;">
     <em>TermLens is a browser plugin designed to detect unfavorable financial terms before they cost you.</em>
   </p>
@@ -106,9 +125,9 @@ To assess how well we can **detect unfavorable financial terms**, we conducted t
 
 ## Key Findings from Annotated Dataset Evaluation
 
-✅ **Context Matters** – Adding our taxonomy of unfavorable terms to the prompt boosted zero-shot classification performance, increasing TPR by 4.4% to 27.4% and F1 score by 4.5% to 21.1%. Providing structured context helps LLMs better understand and identify unfavorable financial terms.  
+**Context Matters** – Adding our taxonomy of unfavorable terms to the prompt boosted zero-shot classification performance, increasing TPR by 4.4% to 27.4% and F1 score by 4.5% to 21.1%. Providing structured context helps LLMs better understand and identify unfavorable financial terms.  
 
-✅ **Fine-Tuning Works** – A fine-tuned GPT-4o model significantly outperformed all other models.  
+**Fine-Tuning Works** – A fine-tuned GPT-4o model significantly outperformed all other models.  
 
 ## Key Takeaways from Large-Scale Detection  
 
@@ -116,7 +135,7 @@ To assess how well we can **detect unfavorable financial terms**, we conducted t
 
 📌 **Less Popular Websites Are Riskier** – Unfavorable terms are more prevalent on lower-ranked shopping websites, making them a bigger risk for consumers.  
 
-📌 **Current Scam Detection Tools Miss These Terms** – Our findings show that most scam detection tools don’t flag websites with unfair T&Cs, since they focus on phishing and fraud, not deceptive financial clauses.  
+📌 **Current Scam Detection Tools Miss These Terms** – Our findings show that most scam detection tools don't flag websites with unfair T&Cs, since they focus on phishing and fraud, not deceptive financial clauses.  
 
 These insights highlight the urgent need for automated tools like TermLens to help consumers **spot unfair terms before they agree to them.**
 
@@ -130,15 +149,19 @@ trust and satisfaction, have not been extensively studied. While our work takes 
 
 ## Context Matters in Determining Harmfulness
 
-The context in which an unfavorable financial term appears is critical in assessing its severity. For example, a refund policy stating “Refunds are not in cash but in the form of a coupon” is clearly worth flagging for users. However, if this information is clearly presented during checkout through a pop-up or highlighted text, the harm it poses is significantly reduced. On the other hand, if this term is buried deep in T&Cs that users never see, the impact is far greater. Future research should explore how and where these terms are presented to better quantify their risk and develop more nuanced detection methods.
+The context in which an unfavorable financial term appears is critical in assessing its severity. For example, a refund policy stating "Refunds are not in cash but in the form of a coupon" is clearly worth flagging for users. However, if this information is clearly presented during checkout through a pop-up or highlighted text, the harm it poses is significantly reduced. On the other hand, if this term is buried deep in T&Cs that users never see, the impact is far greater. Future research could explore how and where these terms are presented to better qualify and quantify their risk and develop more nuanced detection methods.
+
+## Consumer Perception of Unfavorable Financial Terms
+
+While our study detects and categorizes unfavorable financial terms, an important open question is how these terms actually impact consumers. Future research could focus on user studies to understand *how consumers perceive these terms, whether they notice them, and how these terms influence their decision-making*. Additionally, studies could quantify the financial harm these terms cause—whether through unexpected fees, lost refunds, or forced subscriptions. Understanding the psychological and financial effects of these terms would help in designing better interventions, whether through improved transparency, policy recommendations, or automated consumer protection tools.
 
 ## Regional Differences in Unfairness
 
-Our study focuses exclusively on English-language T&Cs, using the FTC Act’s definition of unfair and deceptive practices [2] as a reference point. However, consumer protection laws vary significantly across regions. For example, the EU’s Unfair Commercial Practices Directive or GDPR-related terms may provide alternative legal frameworks for evaluating the fairness of terms. Future research can extend our approach to different languages and jurisdictions, adapting detection models to account for region-specific regulations and cultural norms. Expanding this work globally would provide a more comprehensive understanding of how businesses craft financial terms across different markets.
+Our study focuses exclusively on English-language T&Cs, using the FTC Act's definition of unfair and deceptive practices [2] as a reference point. However, consumer protection laws vary significantly across regions. For example, the EU's Unfair Commercial Practices Directive or GDPR-related terms may provide alternative legal frameworks for evaluating the fairness of terms. Future research can extend our approach to different languages and jurisdictions, adapting detection models to account for region-specific regulations and cultural norms. Expanding this work globally would provide a more comprehensive understanding of how businesses craft financial terms across different markets.
 
 # References
+<div style="font-size: 0.9em; line-height: 1.2;">
+<p>[1] Washington Post. Bad news for thousands of crypto investors: They don't own their accounts. January 5, 2023. <a href="https://www.washingtonpost.com/technology/2023/01/05/celsius-crypto-bankruptcy-ruling/">https://www.washingtonpost.com/technology/2023/01/05/celsius-crypto-bankruptcy-ruling/</a></p>
 
-[1] Washington Post. Bad news for thousands of crypto investors: They don't own their accounts. January 5, 2023. [https://www.washingtonpost.com/technology/2023/01/05/celsius-crypto-bankruptcy-ruling/](https://www.washingtonpost.com/technology/2023/01/05/celsius-crypto-bankruptcy-ruling/)
-
-[2] FTC Act, Section 5: [https://www.federalreserve.gov/boarddocs/supmanual/cch/200806/ftca.pdf](https://www.federalreserve.gov/boarddocs/supmanual/cch/200806/ftca.pdf)
-
+<p>[2] FTC Act, Section 5: <a href="https://www.federalreserve.gov/boarddocs/supmanual/cch/200806/ftca.pdf">https://www.federalreserve.gov/boarddocs/supmanual/cch/200806/ftca.pdf</a></p>
+</div>
