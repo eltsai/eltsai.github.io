@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elisa Tsai / CSE@Umich"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Elisa Tsai"
 description              : &description "personal description"
