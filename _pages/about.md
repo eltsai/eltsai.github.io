@@ -25,14 +25,14 @@ Selected Publications
 ------
 {% include publication-block.html 
   title="Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale"
-  resources='<i class="fas fa-file-pdf"></i> [arXiv](https://www.arxiv.org/abs/2502.01798) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/term_miner/tree/main) <i class="fas fa-database"> </i> [Dataset](https://huggingface.co/datasets/eltsai/ShopTC-100K) <i class="fab fa-blogger-b"> </i> [Blog Post](https://eltsai.github.io/posts/2025/02/harmful-terms/)'
+  resources='<i class="fas fa-file-pdf"></i> [arXiv](https://www.arxiv.org/abs/2502.01798) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/term_miner) <i class="fas fa-database"> </i> [Dataset](https://huggingface.co/datasets/eltsai/ShopTC-100K) <i class="fab fa-blogger-b"> </i> [Blog Post](https://eltsai.github.io/posts/2025/02/harmful-terms/)'
   authors="Elisa Tsai, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash"
   conference='To appear, The Web Conference (WWW) 2025 (<span style="color: #880000">Oral</span>)'
 %}
 
 {% include publication-block.html 
     title="Label-Free Coreset Selection with Proxy Training Dynamics"
-    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://openreview.net/forum?id=yklJpvB7Dql)'
+    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://openreview.net/forum?id=yklJpvB7Dql) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/elfs)'
     authors="Haizhong Zheng (co-lead), Elisa Tsai (co-lead), Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash"
     conference="To appear, The International Conference on Learning Representations (ICLR) 2025"
 %}
