@@ -1,8 +1,8 @@
 ---
-title: 'Some Random Thoughts on How LLMs Transformed My Life'
+title: 'Some Random Thoughts on How LLMs Transformed My Leaning Process'
 date: 2025-02-23
 permalink: /posts/2025/02/random-llm-thoughts/
-excerpt: "Let's be honest --- no one actually reads the Terms & Conditions before clicking 'I agree.' However, these terms can cost you dearly. "
+excerpt: "It's fascinating that from a vast and general corpus of text, an understanding of the linear and periodic nature of natural numbers emerges in these models. "
 author_profile: false
 author: "Elisa Tsai"
 toc: true
