@@ -31,8 +31,8 @@ Selected Publications
 %}
 
 {% include publication-block.html 
-    title="Label-Free Coreset Selection with Proxy Training Dynamics"
-    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://openreview.net/forum?id=yklJpvB7Dql) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/elfs)'
+    title="ELFS: Label-Free Coreset Selection with Proxy Training Dynamics"
+    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://arxiv.org/abs/2406.04273) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/elfs)'
     authors="Haizhong Zheng (co-lead), Elisa Tsai (co-lead), Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash"
     conference="To appear, The International Conference on Learning Representations (ICLR) 2025"
 %}
