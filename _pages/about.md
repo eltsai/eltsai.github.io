@@ -11,11 +11,13 @@ redirect_from:
 ![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)
 
 
-🌱I'm Elisa Tsai. I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/).
+🌱I'm Elisa Tsai. I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am fortunate to be advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/).
 
 My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for data efficiency and inference efficiency for vision and large language models.
 
 Outside of work, I occasionally record music ([Soundcloud](https://soundcloud.com/dumblelisa), [网易云](https://music.163.com/#/artist?id=12158117)), and once every few years, I [draw stuff](https://etsai.site/tags/comics/). There's also an archive of my [Chinese blogs](https://etsai.site/).
+
+My Chinese given name is 文韬 (wén tāo), which comes from the Chinese idiom 文韬武略 (wén tāo wǔ lüè), meaning good at writing and good at fighting 😁 
 
 **Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2025_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] [[LinkedIn](https://www.linkedin.com/in/elisa-tsai-umich/)]
     "
@@ -68,14 +70,27 @@ Teaching
 
 Community Service
 -------
-1. [SECRIT (SECurity Reading Is Terrific)](https://wiki.eecs.umich.edu/secrit/index.php/Main_Page#Papers_We.27ve_Read) Reading Group Co-Host\
-I started hosting SECRIT since May of 2021, where we discuss recent papers on security and privacy. [[Wiki](https://wiki.eecs.umich.edu/secrit/index.php/Main_Page)] [[Calendar](https://calendar.google.com/calendar/u/0?cid=Y19haXM3N29xY2Iwb3I4Mms5MHJmcWsxZ2tvNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)]
+<mark>University of Michigan</mark>
 
-1. CSEG Outreach Chair\
+1. [SECRIT (SECurity Reading Is Terrific)](https://wiki.eecs.umich.edu/secrit/index.php/Main_Page#Papers_We.27ve_Read) Reading Group Co-Host\
+I hosted SECRIT from 2021-2024, where we discuss recent papers on security and privacy. [[Wiki](https://wiki.eecs.umich.edu/secrit/index.php/Main_Page)] [[Calendar](https://calendar.google.com/calendar/u/0?cid=Y19haXM3N29xY2Iwb3I4Mms5MHJmcWsxZ2tvNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)]
+
+2. CSEG Outreach Chair\
 I was the Outreach Chair for CSEG (CSE Grad) for year 2022-2023. We organize outreach events and workshops such as [Xplore Engineering](https://campsforkids.engin.umich.edu/xplore/) and [Discover Engineering](https://campsforkids.engin.umich.edu/discover/)
 
-1. CSEG Social Co-Chair\
+3. CSEG Social Co-Chair\
 I was one of the co-chairs for CSEG social events in 2022-2023.
 
+<mark>Reviewing Service</mark>
+
+1. Program Committee, WWW'25 Short Paper Track
+2. Reviewer, WWW'25 Research Track
+3. Reviewer, ICLR 2025 SCOPE Workshop
+4. Reviewer, ICLR 2025 
+   
+   ...
+
 -------
-<mark>Last Updated: 2025.02</mark>
+
+<span style="color: #c3c3c3;">Last Updated: {{ page.last_modified_at | date: "%Y.%m" }}</span>
+
