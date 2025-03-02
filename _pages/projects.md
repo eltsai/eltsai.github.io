@@ -24,5 +24,7 @@ author_profile: false
 {% for hobby in sorted_hobby_projects %}
   {% include publication-block.html 
     title=hobby.title
+    resources=hobby.resources
+    conference=hobby.excerpt
   %}
 {% endfor %}
