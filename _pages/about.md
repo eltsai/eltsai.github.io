@@ -15,11 +15,11 @@ redirect_from:
 
 My research focuses on building pragmatic machine learning systems for security. I also design algorithms for data efficiency and inference efficiency for vision and large language models.
 
-Outside of work, I occasionally record music ([Soundcloud](https://soundcloud.com/dumblelisa), [网易云](https://music.163.com/#/artist?id=12158117)), and from time to time, I [draw stuff](https://mp.weixin.qq.com/s/McXhW2YoCneXAPumCUx5qg). There's also an archive of my [Chinese blogs](https://etsai.site/) (deprecated).
+Outside of work, I occasionally record music ([Soundcloud](https://soundcloud.com/dumblelisa), [网易云](https://music.163.com/#/artist?id=12158117)), and from time to time, I [draw stuff](https://mp.weixin.qq.com/s/McXhW2YoCneXAPumCUx5qg).
 
-My Chinese given name is 文韬 (wén tāo), which comes from the Chinese idiom 文韬武略 (wén tāo wǔ lüè), meaning good at writing and good at fighting 😁 
+My Chinese name is 文韬 (wén tāo), which comes from the Chinese idiom 文韬武略 (wén tāo wǔ lüè), meaning good at writing and good at fighting 💪😁 
 
-**Links and Contact Info**: [[C.V.](https://github.com/eltsai/eltsai/raw/master/assets/Elisa_CV_2025_01.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] [[LinkedIn](https://www.linkedin.com/in/elisa-tsai-umich/)]
+**Links and Contact Info**: [[C.V.](https://eltsai.github.io/assets/resume/Elisa_CV_2025_07.pdf#view=FitH)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] [[LinkedIn](https://www.linkedin.com/in/elisa-tsai-umich/)]
     "
 %}
 
