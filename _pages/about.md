@@ -13,9 +13,9 @@ redirect_from:
 
 🌱I'm Elisa Tsai. I am a final year Ph.D. candidate in Computer Science and Engineering at the University of Michigan. I am fortunate to be advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/).
 
-My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for data efficiency and inference efficiency for vision and large language models.
+My research focuses on building pragmatic machine learning systems for security. I also design algorithms for data efficiency and inference efficiency for vision and large language models.
 
-Outside of work, I occasionally record music ([Soundcloud](https://soundcloud.com/dumblelisa), [网易云](https://music.163.com/#/artist?id=12158117)), and once every few years, I [draw stuff](https://etsai.site/tags/comics/). There's also an archive of my [Chinese blogs](https://etsai.site/).
+Outside of work, I occasionally record music ([Soundcloud](https://soundcloud.com/dumblelisa), [网易云](https://music.163.com/#/artist?id=12158117)), and from time to time, I [draw stuff](https://mp.weixin.qq.com/s/McXhW2YoCneXAPumCUx5qg). There's also an archive of my [Chinese blogs](https://etsai.site/) (deprecated).
 
 My Chinese given name is 文韬 (wén tāo), which comes from the Chinese idiom 文韬武略 (wén tāo wǔ lüè), meaning good at writing and good at fighting 😁 
 
@@ -29,14 +29,21 @@ Selected Publications
   title="Harmful Terms and Where to Find Them: Measuring and Modeling Unfavorable Financial Terms and Conditions in Shopping Websites at Scale"
   resources='<i class="fas fa-file-pdf"></i> [arXiv](https://www.arxiv.org/abs/2502.01798) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/term_miner) <i class="fas fa-database"> </i> [Dataset](https://huggingface.co/datasets/eltsai/ShopTC-100K) <i class="fab fa-blogger-b"> </i> [Blog Post](https://eltsai.github.io/posts/2025/02/harmful-terms/) <i class="fas fa-bookmark"></i> [NDSS Poster](https://www.ndss-symposium.org/wp-content/uploads/2025-poster-65.pdf)'
   authors="Elisa Tsai, Neal Mangaokar, Boyuan Zheng, Haizhong Zheng, Atul Prakash"
-  conference='To appear, The Web Conference (WWW) 2025 (<span style="color: #880000">Oral</span>)'
+  conference='The Web Conference (WWW) 2025 (<span style="color: #880000">Oral</span>)'
 %}
 
 {% include publication-block.html 
     title="ELFS: Label-Free Coreset Selection with Proxy Training Dynamics"
-    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://arxiv.org/abs/2406.04273) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/elfs)'
+    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://arxiv.org/abs/2406.04273) <i class="fas fa-file-video"></i> [ICLR](https://iclr.cc/virtual/2025/poster/27703) <i class="fab fa-github"></i> [Code](https://github.com/eltsai/elfs) <i class="fas fa-file-pdf"></i> [Slides](https://iclr.cc/media/iclr-2025/Slides/27703.pdf)'
     authors="Haizhong Zheng (co-lead), Elisa Tsai (co-lead), Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash"
-    conference="To appear, The International Conference on Learning Representations (ICLR) 2025"
+    conference="The International Conference on Learning Representations (ICLR) 2025"
+%}
+
+{% include publication-block.html 
+    title="Class-Proportional Coreset Selection for Difficulty-Separable Data"
+    resources='<i class="fas fa-file-pdf"></i> [arXiv](https://arxiv.org/abs/2507.10904)'
+    authors="Elisa Tsai, Haizhong Zheng, Atul Prakash"
+    conference="ICCV 2025 Workshop on Curated Data for Efficient Learning (CDEL)"
 %}
 
 
