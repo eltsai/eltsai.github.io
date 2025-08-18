@@ -1,0 +1,71 @@
+<style>
+.table-block .table-row:nth-child(even) {
+  background-color: #f8f9fa;
+}
+.table-block .table-row:nth-child(odd) {
+  background-color: white;
+}
+</style>
+<div class="table-block" style="background: white; padding: 0; border-radius: 10px; margin: 2rem 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  
+      <table style="width: 100%; border-collapse: collapse; margin: 0; border: none;">
+      {% if include.header1 %}
+      <thead>
+        <tr style="background-color: #f8f9fa;">
+          {% if include.header1 %}<th style="padding: 12px 12px 12px 24px; text-align: left; border-bottom: 2px solid #dee2e6; border-right: none; border-left: none; border-top: none; font-weight: 600; color: #495057;">{{ include.header1 }}</th>{% endif %}
+          {% if include.header2 %}<th style="padding: 12px; text-align: left; border-bottom: 2px solid #dee2e6; border-right: none; border-left: none; border-top: none; font-weight: 600; color: #495057;">{{ include.header2 }}</th>{% endif %}
+          {% if include.header3 %}<th style="padding: 12px; text-align: left; border-bottom: 2px solid #dee2e6; border-right: none; border-left: none; border-top: none; font-weight: 600; color: #495057;">{{ include.header3 }}</th>{% endif %}
+          {% if include.header4 %}<th style="padding: 12px; text-align: left; border-bottom: 2px solid #dee2e6; border-right: none; border-left: none; border-top: none; font-weight: 600; color: #495057;">{{ include.header4 }}</th>{% endif %}
+          {% if include.header5 %}<th style="padding: 12px; text-align: left; border-bottom: 2px solid #dee2e6; border-right: none; border-left: none; border-top: none; font-weight: 600; color: #495057;">{{ include.header5 }}</th>{% endif %}
+        </tr>
+      </thead>
+      {% endif %}
+      <tbody>
+        {% if include.row1_col1 %}
+        <tr class="table-row">
+          <td style="padding: 12px 12px 12px 24px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row1_col1 | markdownify }}</td>
+          {% if include.row1_col2 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row1_col2 | markdownify }}</td>{% endif %}
+          {% if include.row1_col3 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row1_col3 | markdownify }}</td>{% endif %}
+          {% if include.row1_col4 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row1_col4 | markdownify }}</td>{% endif %}
+          {% if include.row1_col5 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row1_col5 | markdownify }}</td>{% endif %}
+        </tr>
+        {% endif %}
+        {% if include.row2_col1 %}
+        <tr class="table-row">
+          <td style="padding: 12px 12px 12px 24px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row2_col1 | markdownify }}</td>
+          {% if include.row2_col2 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row2_col2 | markdownify }}</td>{% endif %}
+          {% if include.row2_col3 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row2_col3 | markdownify }}</td>{% endif %}
+          {% if include.row2_col4 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row2_col4 | markdownify }}</td>{% endif %}
+          {% if include.row2_col5 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row2_col5 | markdownify }}</td>{% endif %}
+        </tr>
+        {% endif %}
+        {% if include.row3_col1 %}
+        <tr class="table-row">
+          <td style="padding: 12px 12px 12px 24px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row3_col1 | markdownify }}</td>
+          {% if include.row3_col2 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row3_col2 | markdownify }}</td>{% endif %}
+          {% if include.row3_col3 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row3_col3 | markdownify }}</td>{% endif %}
+          {% if include.row3_col4 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row3_col4 | markdownify }}</td>{% endif %}
+          {% if include.row3_col5 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row3_col5 | markdownify }}</td>{% endif %}
+        </tr>
+        {% endif %}
+        {% if include.row4_col1 %}
+        <tr class="table-row">
+          <td style="padding: 12px 12px 12px 24px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row4_col1 | markdownify }}</td>
+          {% if include.row4_col2 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row4_col2 | markdownify }}</td>{% endif %}
+          {% if include.row4_col3 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row4_col3 | markdownify }}</td>{% endif %}
+          {% if include.row4_col4 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row4_col4 | markdownify }}</td>{% endif %}
+          {% if include.row4_col5 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row4_col5 | markdownify }}</td>{% endif %}
+        </tr>
+        {% endif %}
+        {% if include.row5_col1 %}
+        <tr class="table-row">
+          <td style="padding: 12px 12px 12px 24px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row5_col1 | markdownify }}</td>
+          {% if include.row5_col2 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row5_col2 | markdownify }}</td>{% endif %}
+          {% if include.row5_col3 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row5_col3 | markdownify }}</td>{% endif %}
+          {% if include.row5_col4 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row5_col4 | markdownify }}</td>{% endif %}
+          {% if include.row5_col5 %}<td style="padding: 12px; text-align: left; border-bottom: 1px solid #dee2e6; border-right: none; border-left: none; border-top: none; vertical-align: top;">{{ include.row5_col5 | markdownify }}</td>{% endif %}
+        </tr>
+        {% endif %}
+      </tbody>
+    </table>
+</div> 

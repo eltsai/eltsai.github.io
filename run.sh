@@ -18,3 +18,4 @@ bundle install
 # Run the Jekyll server
 # -----------------------------------------------------------------------------
 bundle exec jekyll serve
+#  Ctrl + C  to properly stop the server
