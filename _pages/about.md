@@ -11,14 +11,16 @@ redirect_from:
 ![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)
 
 
-🌱I'm Elisa Tsai. I received my Ph.D. in Computer Science and Engineering (CSE) from the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). [My dissertation](https://eecs.engin.umich.edu/wp-content/uploads/2025/07/E.-Tsai-Defense-flyer-1.pdf) addresses the intersection of applied machine learning systems for real-world security applications and data-efficient approaches that reduce annotation and training costs in machine learning pipelines.
+🌱I'm Elisa Tsai. I received my Ph.D. in Computer Science and Engineering (CSE) from the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). I am currenly a software engineer at Google.
+
+We humans extracted silicon from sand and built circuits that perform arithmetic with 0s and 1s. We use these circuits to train and serve models that attempt to capture the statistical structure of the world. I’m interested in understanding how these models learn, reason, and generalize. My current work focuses on making this faster and with less computation.
 
 
 Outside of work, I occasionally record music ([Soundcloud](https://soundcloud.com/dumblelisa), [网易云](https://music.163.com/#/artist?id=12158117)), and from time to time, I [draw stuff](https://mp.weixin.qq.com/s/McXhW2YoCneXAPumCUx5qg).
 
 My Chinese name is 文韬 (wén tāo), which comes from the Chinese idiom 文韬武略 (wén tāo wǔ lüè), meaning good at writing and good at fighting 💪 
 
-**Links and Contact Info**: [[C.V.](https://eltsai.github.io/assets/resume/Elisa_CV_2025_07.pdf#view=FitH)] [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] [[LinkedIn](https://www.linkedin.com/in/elisa-tsai-umich/)]
+**Links and Contact Info**: [[C.V.](https://eltsai.github.io/assets/resume/Elisa_CV_2025_07.pdf#view=FitH)] (last updated: July 2025) [[Google Scholar](https://scholar.google.com/citations?user=3NA-OTQAAAAJ&hl=en&oi=sra)] [[Github](https://github.com/eltsai)] [[LinkedIn](https://www.linkedin.com/in/elisa-tsai-umich/)]
     "
 %}
 
