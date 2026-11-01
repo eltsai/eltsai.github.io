@@ -11,7 +11,7 @@ redirect_from:
 ![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)
 
 
-🌱I'm Elisa Tsai. I received my Ph.D. in Computer Science and Engineering (CSE) from the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). I am currenly a software engineer at Google.
+🌱I'm Elisa Tsai. I received my Ph.D. in Computer Science and Engineering (CSE) from the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). I am currently a software engineer at Google.
 
 We humans extracted silicon from sand and built circuits that perform arithmetic with 0s and 1s. We use these circuits to train and serve models that attempt to capture the statistical structure of the world. I’m interested in understanding how these models learn, reason, and generalize. My current work focuses on making this faster and with less computation.
 
